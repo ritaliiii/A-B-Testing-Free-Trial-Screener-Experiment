@@ -37,7 +37,7 @@ Clearer expectations will reduce churn and improve satisfaction without signific
 ---
 ## Metric Calculations & Evaluation
 
-### 📐 Standard Deviation Estimates
+### Standard Deviation Estimates
 - **Gross Conversion:** `0.0143`
 - **Net Conversion:** `0.0110`
 - **Retention:** `0.0389`
@@ -52,7 +52,7 @@ Using α = 0.05 and β = 0.2:
 |-------------------|------------------|----------------------|--------------------------|
 | Gross Conversion  | 25,835           | 645,868              | ~33 days                 |
 | Net Conversion    | 27,413           | 685,336              | ~35 days                 |
-| Retention         | 39,087 enrolled  | 4,737,771            | ~118 days ❌ (excluded)  |
+| Retention         | 39,087 enrolled  | 4,737,771            | ~118 days (excluded)  |
 
 **Retention metric was dropped** due to the long required test duration.
 
